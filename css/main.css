@@ -4,3 +4,24 @@
     padding: 0;
     font-family: 'Work Sans', sans-serif;
 }
+
+#img-logo {
+    width: auto;
+    height: 39px;
+    position: relative;
+    left: 48%;
+    top: 10%;
+}
+
+.sec-one {
+    height: 308px;
+    position: relative;
+}
+
+.first-h1 {
+    color: #00b39b;
+    font-size: 2em; 
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 10em; 
+}
