@@ -14,7 +14,7 @@
 }
 
 .sec-one {
-    height: 308px;
+    height: 208px;
     position: relative;
 }
 
@@ -24,4 +24,94 @@
     position: absolute;
     margin-top: 70px;
     margin-left: 10em; 
+}
+
+.main-div{
+    display: flex;
+    gap: 20px;
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    left: 12%;
+}
+
+.para-one{
+    font-size: 1em;
+    color: #747474;
+    font-weight: bold;
+}
+
+.para-two{
+    font-size: 1em;
+    color: #747474;
+    font-weight: bold;
+}
+
+.color-div-2 {
+    display: flex;
+    gap: 20px;
+}
+
+.black-div {
+    background-color: #1b2734;
+    border-radius: 9px;
+    width: 310px;
+    color: white;
+}
+
+.blue-div {
+    background-color: #3d83df;
+    border-radius: 9px;
+    width: 310px;
+    color: white;
+}
+
+.green-div {
+    background-color: #00ccb1;
+    border-radius: 9px;
+    height: 345px;
+    width: 310px;
+    color: white;
+
+}
+
+.color-div-2 {
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    left: 14%;
+    margin-top: 130px;
+}
+
+.test{
+    height: 100px;
+}
+
+#doc-logo #pat-logo #cli-logo {
+    width: 24px;
+    height: auto;
+}
+
+.blue-containt {
+    padding: 30px 35px;
+}
+
+.green-containt {
+    padding: 30px 35px;
+}
+
+.black-containt {
+    padding: 30px 35px;
+}
+
+.blue-para {
+    font-size: 23px;
+}
+
+.green-para {
+    font-size: 23px;
+}
+
+.black-para {
+    font-size: 23px;
 }
